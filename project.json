@@ -1,0 +1,25 @@
+{
+    "project_type":"javascript",
+    "debugMode":1,
+    "showFPS":true,
+    "frameRate":60,
+    "id":"gameCanvas",
+    "renderMode":0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules":[
+        "cocos2d"
+    ],
+    "jsList":[
+        "src/com/DefWin.js",
+        "src/resource.js",
+        "src/app.js",
+        "src/com/MusicUtil.js",
+        "src/com/GlobValue.js",
+        "src/com/Explosion.js",
+        "src/com/Bullet.js",
+        "src/com/Meteorite.js",
+        "src/com/BackGround.js",
+        "src/com/AirPlane.js",
+        "src/com/GameLayer.js"
+    ]
+}
